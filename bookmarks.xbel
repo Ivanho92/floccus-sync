@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :302: for Floccus bookmark sync browser extension -->
+<!--- highestId :303: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.notion.so/Programming-8b62d6d9f00b49e59576c08a97d74642" id="1">
   <title>Notion - Programming</title>
@@ -546,12 +546,6 @@
 <bookmark href="https://www.tiobe.com/tiobe-index/" id="189">
   <title>TIOBE Index - TIOBE</title>
 </bookmark>
-<bookmark href="https://www.photopea.com/" id="190">
-  <title>Photopea | Online Photo Editor</title>
-</bookmark>
-<bookmark href="https://vectorizer.com/fr/" id="191">
-  <title>Vectorizer – Vectorisation gratuite des images</title>
-</bookmark>
 <folder id="204">
   <title>Nginx</title>
   <bookmark href="https://www.freecodecamp.org/news/the-nginx-handbook/" id="245">
@@ -646,6 +640,15 @@
   </bookmark>
   <bookmark href="https://survey.devographics.com/" id="207">
     <title>Devographics Surveys</title>
+  </bookmark>
+</folder>
+<folder id="303">
+  <title>Photo Editing</title>
+  <bookmark href="https://www.photopea.com/" id="190">
+    <title>Photopea | Online Photo Editor</title>
+  </bookmark>
+  <bookmark href="https://vectorizer.com/fr/" id="191">
+    <title>Vectorizer – Vectorisation gratuite des images</title>
   </bookmark>
 </folder>
 </xbel>
