@@ -416,6 +416,9 @@
   <bookmark href="https://angular-exercises.ninja-squad.com/" id="51">
     <title>Angular Pro Pack - Ninja Squad</title>
   </bookmark>
+  <bookmark href="https://infinum.com/handbook/frontend/angular/angular-guidelines-and-best-practices/formatting-naming-and-best-practices" id="187">
+    <title>Frontend Handbook | Angular/React</title>
+  </bookmark>
 </folder>
 <folder id="10">
   <title>Java</title>
@@ -530,15 +533,6 @@
 </bookmark>
 <bookmark href="https://ivan-rodrigues.atlassian.net/jira/your-work" id="184">
   <title>Jira</title>
-</bookmark>
-<bookmark href="https://devdocs.io/" id="185">
-  <title>DevDocs</title>
-</bookmark>
-<bookmark href="https://frontendmasters.com/guides/front-end-handbook/2019/#4.1" id="186">
-  <title>Front-end Developer Roadmap 2019</title>
-</bookmark>
-<bookmark href="https://infinum.com/handbook/frontend/angular/angular-guidelines-and-best-practices/formatting-naming-and-best-practices" id="187">
-  <title>Frontend Handbook | Angular/React</title>
 </bookmark>
 <folder id="204">
   <title>Nginx</title>
