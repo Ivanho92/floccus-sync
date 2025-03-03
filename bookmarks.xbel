@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :179: for Floccus bookmark sync browser extension -->
+
+<bookmark href="https://www.notion.so/Programming-8b62d6d9f00b49e59576c08a97d74642" id="1">
+  <title>Notion - Programming</title>
+</bookmark>
+<bookmark href="https://www.notion.so/Commit-Naming-Convention-b87e938124544a52a0d883f374b1a6ec" id="2">
+  <title>Notion - Commit Naming</title>
+</bookmark>
+<bookmark href="https://portswigger.net/web-security/all-topics" id="3">
+  <title>Web Security Academy</title>
+</bookmark>
+<folder id="4">
+  <title>Newsletters</title>
+  <bookmark href="https://dev.to/" id="13">
+    <title>dev.to</title>
+  </bookmark>
+  <bookmark href="https://feedly.com/i/my" id="14">
+    <title>Feedly</title>
+  </bookmark>
+</folder>
+<folder id="5">
+  <title>UI/Dev tools</title>
+  <folder id="15">
+    <title>General tools</title>
+    <bookmark href="https://stackoverflow.com/" id="72">
+      <title>Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://css-tricks.com/" id="73">
+      <title>CSS-Tricks</title>
+    </bookmark>
+    <bookmark href="https://caniuse.com/" id="74">
+      <title>Can I use</title>
+    </bookmark>
+    <bookmark href="https://stackedit.io/app#" id="75">
+      <title>Markdown editor | StackEdit</title>
+    </bookmark>
+    <bookmark href="https://codepen.io/your-work" id="76">
+      <title>CodePen</title>
+    </bookmark>
+    <bookmark href="https://crontab.guru/" id="77">
+      <title>Crontab.guru</title>
+    </bookmark>
+    <bookmark href="https://jsoncrack.com/editor" id="78">
+      <title>Editor | JSON Crack</title>
+    </bookmark>
+  </folder>
+  <folder id="16">
+    <title>Design inspirations</title>
+    <bookmark href="https://www.awwwards.com/websites/" id="79">
+      <title>Awwwards</title>
+    </bookmark>
+    <bookmark href="https://dribbble.com/search/shots/popular/web-design?q=" id="80">
+      <title>Dribbble</title>
+    </bookmark>
+    <bookmark href="https://dribbble.com/shots/17035515-Personal-Portfolio-Web-Landing-Page-Design" id="81">
+      <title>Personal Portfolio - Web Landing Page Design by Tanim Khan for Piqo Design on Dribbble</title>
+    </bookmark>
+  </folder>
+  <folder id="17">
+    <title>General CSS tools</title>
+    <bookmark href="https://www.magicpattern.design/tools" id="82">
+      <title>CSS Tools | MagicPattern</title>
+    </bookmark>
+    <bookmark href="https://www.cssmatic.com/box-shadow" id="83">
+      <title>Box Shadow CSS Generator | CSSmatic</title>
+    </bookmark>
+    <bookmark href="https://cubic-bezier.com/#.17,.67,.83,.67" id="84">
+      <title>cubic-bezier CSS animation generator</title>
+    </bookmark>
+  </folder>
+  <folder id="18">
+    <title>Layout &amp; HTML, CSS</title>
+    <bookmark href="https://piccalil.li/blog/a-modern-css-reset/" id="85">
+      <title>Modern CSS Reset - Piccalilli</title>
+    </bookmark>
+    <bookmark href="http://1linelayouts.glitch.me/" id="86">
+      <title>Layouts | 1-Line layouts</title>
+    </bookmark>
+    <bookmark href="http://entity-lookup.leftlogic.com/" id="87">
+      <title>Entity Lookup</title>
+    </bookmark>
+  </folder>
+  <folder id="19">
+    <title>Fonts &amp; Typography scale</title>
+    <bookmark href="https://fonts.google.com/" id="88">
+      <title>Google Fonts</title>
+    </bookmark>
+    <bookmark href="https://fontjoy.com/" id="89">
+      <title>Fontjoy - Font pairings generator</title>
+    </bookmark>
+    <bookmark href="https://fontsource.org/" id="90">
+      <title>Fontsource - Self-host fonts with NPM packages</title>
+    </bookmark>
+    <bookmark href="https://type-scale.com/" id="91">
+      <title>Type Scale - Font size &amp; scale calculator</title>
+    </bookmark>
+  </folder>
+  <folder id="20">
+    <title>Colors &amp; gradients</title>
+    <bookmark href="https://learnui.design/tools/accessible-color-generator.html?colors=9e9e9e" id="92">
+      <title>Accessible color suggestions | Learn UI Design</title>
+    </bookmark>
+    <bookmark href="https://colourcontrast.cc/" id="93">
+      <title>Colour Contrast Checker</title>
+    </bookmark>
+    <bookmark href="https://www.quackit.com/css/color/charts/css_color_names_chart.cfm" id="94">
+      <title>Native CSS colors</title>
+    </bookmark>
+    <bookmark href="https://www.evernote.com/shard/s442/sh/4f2e2813-64e3-78be-2d65-babdd3a22cd0/bc19e4e83b5ddb9bc11332cc503bac36" id="95">
+      <title>Choosing colors : warm vs cool</title>
+    </bookmark>
+    <bookmark href="https://coolors.co/generate" id="96">
+      <title>Colors generator | Coolors</title>
+    </bookmark>
+    <bookmark href="https://www.toptal.com/designers/colourcode/monochrome-color-builder" id="97">
+      <title>Color palette generator | Toptal</title>
+    </bookmark>
+    <bookmark href="https://material.io/inline-tools/color/" id="98">
+      <title>Color palette generator | Material UI</title>
+    </bookmark>
+    <bookmark href="http://colormind.io/bootstrap/" id="99">
+      <title>AI powered website colors suggestions | Colormind</title>
+    </bookmark>
+    <bookmark href="https://colorable.jxnblk.com/" id="100">
+      <title>Accessible color suggestions | Colorable</title>
+    </bookmark>
+    <bookmark href="https://cssgradient.io/" id="101">
+      <title>CSS gradient generator | CSS Gradient</title>
+    </bookmark>
+    <bookmark href="https://uigradients.com/" id="142">
+      <title>Background gradients | uiGradients</title>
+    </bookmark>
+    <bookmark href="https://www.toptal.com/designers/subtlepatterns/" id="143">
+      <title>Background patterns | Toptal</title>
+    </bookmark>
+    <bookmark href="https://www.magicpattern.design/tools/css-backgrounds" id="144">
+      <title>Background patterns | MagicPattern</title>
+    </bookmark>
+  </folder>
+  <folder id="21">
+    <title>Images &amp; videos</title>
+    <bookmark href="https://picsum.photos/" id="102">
+      <title>Lorem Picsum</title>
+    </bookmark>
+    <bookmark href="https://unsplash.com/" id="103">
+      <title>Unsplash</title>
+    </bookmark>
+    <bookmark href="https://www.pexels.com/fr-fr/" id="104">
+      <title>Pexels</title>
+    </bookmark>
+    <bookmark href="https://unsplash.com/developers" id="105">
+      <title>Unsplash Source - API</title>
+    </bookmark>
+    <bookmark href="https://compressor.io/" id="106">
+      <title>Compressor.io - Image compression</title>
+    </bookmark>
+    <bookmark href="https://coverr.co/" id="107">
+      <title>Coverr - Free videos</title>
+    </bookmark>
+  </folder>
+  <folder id="22">
+    <title>Icons</title>
+    <bookmark href="https://www.flaticon.com/" id="108">
+      <title>flaticon - Icons and stickers</title>
+    </bookmark>
+    <bookmark href="https://fontawesome.com/search" id="109">
+      <title>Font Awesome - Icons</title>
+    </bookmark>
+    <bookmark href="https://icons8.com/animated-icons" id="110">
+      <title>icons8 - Animated icons</title>
+    </bookmark>
+    <bookmark href="https://www.svgrepo.com/" id="111">
+      <title>SVG Repo - Free SVG Vectors and Icons</title>
+    </bookmark>
+    <bookmark href="https://www.dicebear.com/" id="112">
+      <title>DiceBear | Open Source Avatar Library</title>
+    </bookmark>
+  </folder>
+  <folder id="23">
+    <title>Illustrations</title>
+    <bookmark href="https://undraw.co/illustrations" id="113">
+      <title>unDraw </title>
+    </bookmark>
+    <bookmark href="https://designstripe.com/search/illustrations?sort=free" id="114">
+      <title>designstripe</title>
+    </bookmark>
+  </folder>
+  <folder id="24">
+    <title>Design &amp; Wireframing</title>
+    <bookmark href="https://my.moqups.com/dashboard" id="115">
+      <title>Moqups</title>
+    </bookmark>
+    <bookmark href="https://www.figma.com/files/recent" id="116">
+      <title>Figma</title>
+    </bookmark>
+    <bookmark href="https://css3buttongenerator.com/index.html" id="117">
+      <title>css3buttongenerator.com</title>
+    </bookmark>
+    <bookmark href="https://loremfaces.com/" id="118">
+      <title>Free UI faces for designers, avatars, dummy faces, AI generated people faces | Lorem Faces</title>
+    </bookmark>
+  </folder>
+  <folder id="153">
+    <title>Accessibility</title>
+    <bookmark href="javascript:(function() {var _p=&apos;//openfed.github.io/AccessibilityCheck/build/&apos;;var _i=function(s,cb) {var sc=document.createElement(&apos;script&apos;);sc.onload = function() {sc.onload = null;sc.onreadystatechange = null;cb.call(this);};sc.onreadystatechange = function(){if(/^(complete|loaded)$/.test(this.readyState) === true){sc.onreadystatechange = null;sc.onload();}};sc.src=s;if (document.head) {document.head.appendChild(sc);} else {document.getElementsByTagName(&apos;head&apos;)[0].appendChild(sc);}}; var options={path:_p};_i(_p+&apos;HTMLCS.js&apos;,function(){HTMLCSAuditor.run(&apos;WCAG2AA&apos;,null,options);});})();" id="157">
+      <title>BOSA Accessibility Check</title>
+    </bookmark>
+    <bookmark href="https://www.toptal.com/designers/colorfilter" id="158">
+      <title>Colorblind Web Page Filter Testing Tool &amp; Simulator | Toptal®</title>
+    </bookmark>
+    <bookmark href="https://www.w3.org/TR/wai-aria/#role_definitions" id="159">
+      <title>Accessible Rich Internet Applications (WAI-ARIA) 1.1</title>
+    </bookmark>
+  </folder>
+  <folder id="154">
+    <title>APIs</title>
+    <bookmark href="https://www.mockaroo.com/" id="160">
+      <title>Mockaroo - Random Data Generator and API Mocking Tool | JSON / CSV / SQL / Excel</title>
+    </bookmark>
+    <bookmark href="https://jsonplaceholder.typicode.com/" id="161">
+      <title>JSONPlaceholder</title>
+    </bookmark>
+    <bookmark href="https://github.com/typicode/json-server#table-of-contents" id="162">
+      <title>JSONPlaceholder (documentation)</title>
+    </bookmark>
+    <bookmark href="http://www.jsontest.com/#date" id="163">
+      <title>JSON Test</title>
+    </bookmark>
+    <bookmark href="https://www.programmableweb.com/content/search" id="164">
+      <title>ProgrammableWeb | APIs catalog</title>
+    </bookmark>
+    <bookmark href="https://github.com/toddmotto/public-apis?utm_source=mybridge&amp;utm_medium=blog&amp;utm_campaign=read_more#weather" id="165">
+      <title>A collective list of free APIs</title>
+    </bookmark>
+    <bookmark href="https://editor.swagger.io/" id="166">
+      <title>Swagger Editor</title>
+    </bookmark>
+  </folder>
+  <folder id="155">
+    <title>Mail services</title>
+    <bookmark href="https://dashboard.emailjs.com/admin" id="167">
+      <title>EmailJS</title>
+    </bookmark>
+    <bookmark href="https://nodemailer.com/about/" id="168">
+      <title>Nodemailer</title>
+    </bookmark>
+    <bookmark href="https://sendgrid.com/" id="169">
+      <title>SendGrid</title>
+    </bookmark>
+  </folder>
+  <folder id="156">
+    <title>Git &amp; NPM</title>
+    <bookmark href="https://dev.to/poopcoder/remove-unused-npm-modules-from-package-json-2e7i" id="170">
+      <title>Remove unused npm modules from package.json - DEV Community 👩‍💻👨‍💻</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="6">
+  <title>Code Challenges</title>
+  <bookmark href="https://codingdojo.org/" id="25">
+    <title>Coding Dojo</title>
+  </bookmark>
+  <bookmark href="https://exercism.org/dashboard" id="26">
+    <title>Community solutions for Scrabble Score in JavaScript on Exercism</title>
+  </bookmark>
+  <bookmark href="https://challenges.fabiobergmann.com/home" id="27">
+    <title>challenges.(true)</title>
+  </bookmark>
+  <bookmark href="https://www.codewars.com/" id="28">
+    <title>Codewars (code challenges)</title>
+  </bookmark>
+  <bookmark href="https://leetcode.com/explore/" id="29">
+    <title>Explore - LeetCode</title>
+  </bookmark>
+  <bookmark href="https://editx.eu/en/it-challenges" id="30">
+    <title>Search for challenges and participate | EDITx</title>
+  </bookmark>
+</folder>
+<folder id="7">
+  <title>App Deployment</title>
+  <bookmark href="https://github.com/Ivanho92" id="31">
+    <title>Github</title>
+  </bookmark>
+  <bookmark href="https://dashboard.heroku.com/apps" id="32">
+    <title>Heroku</title>
+  </bookmark>
+  <bookmark href="https://app.netlify.com/teams/ivanho92/overview?_ga=2.81540062.81319090.1648552674-911533855.1648227617" id="33">
+    <title>Netlify</title>
+  </bookmark>
+  <bookmark href="https://dash.cloudflare.com/6da2d88e9d29c56a99ac73d132e6c5d4/ivan-rodrigues.com" id="34">
+    <title>Cloudflare</title>
+  </bookmark>
+  <bookmark href="https://hpanel.hostinger.com/" id="35">
+    <title>Hostinger</title>
+  </bookmark>
+  <bookmark href="https://account.godaddy.com/products" id="36">
+    <title>GoDaddy</title>
+  </bookmark>
+  <bookmark href="https://search.google.com/search-console" id="37">
+    <title>Google Search Console</title>
+  </bookmark>
+  <bookmark href="https://cloudinary.com/console/c-cc8e685e2fd98f3feff65bf4a951a2/getting-started" id="38">
+    <title>Cloudinary Management Console - Getting Started</title>
+  </bookmark>
+  <bookmark href="https://docs.gitlab.com/ee/user/project/merge_requests/conflicts.html" id="39">
+    <title>Merge conflicts | GitLab</title>
+  </bookmark>
+  <bookmark href="https://pspdfkit.com/api/" id="40">
+    <title>PDF API Tools: Fast Setup with 25+ PDF Tools | PSPDFKit API</title>
+  </bookmark>
+  <bookmark href="https://dnschecker.org/#NS/ivan-rodrigues.com" id="122">
+    <title>DNS Checker</title>
+  </bookmark>
+  <bookmark href="https://app.sendgrid.com/" id="123">
+    <title>SendGrid</title>
+  </bookmark>
+  <bookmark href="https://pradiptagitaya.medium.com/setup-heroku-custom-domain-https-cloudflare-21baf6ad4596" id="124">
+    <title>Setup Heroku + Custom Domain + HTTPS (Cloudflare)</title>
+  </bookmark>
+  <bookmark href="https://medium.com/@winnieliang/how-to-run-a-simple-html-css-javascript-application-on-heroku-4e664c541b0b" id="125">
+    <title>How to Run a Simple HTML/CSS/Javascript Application on Heroku</title>
+  </bookmark>
+  <bookmark href="https://formspree.io/" id="126">
+    <title>Formspree</title>
+  </bookmark>
+  <bookmark href="https://prorez.caliberthemes.com/resume/" id="127">
+    <title>ProRez – Resume/Portfolio/Personal</title>
+  </bookmark>
+  <bookmark href="https://github.com/docker/for-win/issues/5202#issuecomment-643045922" id="128">
+    <title>Docker - elasticsearch vm max map count</title>
+  </bookmark>
+  <bookmark href="https://webpack.js.org/plugins/split-chunks-plugin/" id="129">
+    <title>SplitChunksPlugin | webpack</title>
+  </bookmark>
+</folder>
+<folder id="8">
+  <title>Articles</title>
+  <bookmark href="https://codegym.cc/groups/posts/how-long-does-it-take-to-learn-java?utm_source=eSputnik-$email-welcome-series-en&amp;utm_medium=email&amp;utm_campaign=$email-welcome-series-en-first-digest" id="41">
+    <title>How long does it take to learn Java?</title>
+  </bookmark>
+  <bookmark href="https://github.com/facebook/create-react-app/blob/main/CHANGELOG.md#migrating-from-40x-to-500" id="42">
+    <title>create-react-app/CHANGELOG.md</title>
+  </bookmark>
+  <bookmark href="https://dev.to/bholmesdev/before-building-your-next-static-site-with-react-consider-this-2b60" id="43">
+    <title>Before building your next static site with React, consider this - DEV Community</title>
+  </bookmark>
+  <bookmark href="https://piccalil.li/blog/cube-css/" id="44">
+    <title>CUBE CSS - Piccalilli</title>
+  </bookmark>
+  <bookmark href="https://www.smashingmagazine.com/2020/01/html5-article-section/" id="45">
+    <title>Why You Should Choose HTML5 article Over section — Smashing Magazine</title>
+  </bookmark>
+  <bookmark href="https://every-layout.dev/rudiments/units/" id="46">
+    <title>Units: Every Layout</title>
+  </bookmark>
+  <bookmark href="https://alistapart.com/article/more-meaningful-typography/" id="47">
+    <title>More Meaningful Typography – A List Apart</title>
+  </bookmark>
+  <bookmark href="https://css-tricks.com/the-peculiar-magic-of-flexbox-and-auto-margins/" id="48">
+    <title>The peculiar magic of flexbox and auto margins | CSS-Tricks - CSS-Tricks</title>
+  </bookmark>
+  <bookmark href="https://greensock.com/docs/v3/Plugins/ScrollTrigger" id="49">
+    <title>GreenSock | Docs | Plugins | ScrollTrigger</title>
+  </bookmark>
+  <bookmark href="https://reactjs.org/docs/conditional-rendering.html#inline-if-with-logical--operator" id="50">
+    <title>Javascript: inline if with logical &amp;&amp; operator</title>
+  </bookmark>
+  <bookmark href="https://matthewjamestaylor.com/custom-tags" id="130">
+    <title>Custom HTML Tags (18 Things To Know Before Using Them)</title>
+  </bookmark>
+  <bookmark href="https://academind.com/tutorials/angular-vs-react-vs-vue-my-thoughts" id="131">
+    <title>Angular vs React vs Vue - My Thoughts</title>
+  </bookmark>
+  <folder id="132">
+    <title>🤣🤣🤣</title>
+    <bookmark href="https://www.codewars.com/kata/reviews/525f50e3b73515a6db000b86/groups/5cb4479ef180cc0001e0849d" id="145">
+      <title>Create Phone Number Solution | Codewars</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://academind.com/tutorials/reference-vs-primitive-values" id="133">
+    <title>Reference vs Primitive Values</title>
+  </bookmark>
+  <bookmark href="https://www.javascripttutorial.net/javascript-bind/" id="134">
+    <title>JavaScript bind() Method and Its Practical Applications</title>
+  </bookmark>
+  <bookmark href="https://academind.com/tutorials/hide-javascript-code" id="135">
+    <title>Hide JavaScript Code</title>
+  </bookmark>
+  <bookmark href="https://formik.org/docs/tutorial" id="136">
+    <title>Tutorial | Formik</title>
+  </bookmark>
+  <bookmark href="https://academind.com/tutorials/reactjs-a-custom-useform-hook" id="137">
+    <title>Creating a Custom useForm Hook</title>
+  </bookmark>
+  <bookmark href="https://medium.com/appnroll-publication/5-practical-solutions-to-make-responsive-data-tables-ff031c48b122" id="138">
+    <title>5 Practical Solutions to Make Responsive Data Tables | by Michał Jarosz | Appnroll Publication | Medium</title>
+  </bookmark>
+  <bookmark href="https://blog.restcase.com/6-most-significant-changes-in-oas-3-0/" id="139">
+    <title>6 Most Significant Changes in OAS 3.0</title>
+  </bookmark>
+  <bookmark href="https://securityboulevard.com/2021/07/how-attackers-use-request-bots-to-bypass-your-bot-mitigation-solution-2/" id="150">
+    <title>How Attackers Use Request Bots to Bypass Your Bot Mitigation Solution - Security Boulevard</title>
+  </bookmark>
+  <bookmark href="https://codegym.cc/groups/posts/equals-and-string-comparsions" id="151">
+    <title>Compare String and Equals comparisons in Java</title>
+  </bookmark>
+  <bookmark href="https://kentcdodds.com/blog/common-mistakes-with-react-testing-library" id="152">
+    <title>Common mistakes with React Testing Library</title>
+  </bookmark>
+</folder>
+<folder id="9">
+  <title>Angular</title>
+  <bookmark href="https://angular-exercises.ninja-squad.com/" id="51">
+    <title>Angular Pro Pack - Ninja Squad</title>
+  </bookmark>
+</folder>
+<folder id="10">
+  <title>Java</title>
+  <bookmark href="https://shaolans.github.io/prettier-java-playground/" id="52">
+    <title>Prettier-java</title>
+  </bookmark>
+  <bookmark href="https://start.spring.io/" id="53">
+    <title>Spring Initializr</title>
+  </bookmark>
+  <bookmark href="https://search.maven.org/" id="54">
+    <title>Maven Search</title>
+  </bookmark>
+  <bookmark href="https://mvnrepository.com/" id="55">
+    <title>Maven Repository</title>
+  </bookmark>
+  <bookmark href="https://codegym.cc/images/article/b17a6c36-7bd6-4b46-b93f-d03b3ab42906/original.png" id="56">
+    <title>Java Roadmap</title>
+  </bookmark>
+  <bookmark href="https://coggle.it/diagram/X-dDo1Qdf7DCP2zg/t/how-to-master-java/a3c8bede6822097b7f3c6340b82eabd7986c57af4d42f11c122d5065479d5928" id="57">
+    <title>How to Master Java</title>
+  </bookmark>
+  <bookmark href="https://docs.oracle.com/en/java/javase/18/" id="58">
+    <title>JDK 18 Documentation</title>
+  </bookmark>
+  <bookmark href="https://docs.jboss.org/hibernate/orm/5.6/quickstart/html_single/#hibernate-gsg-tutorial-basic-entity" id="59">
+    <title>Hibernate ORM 5.6 - Getting Started</title>
+  </bookmark>
+  <bookmark href="https://docs.jboss.org/hibernate/orm/5.6/userguide/html_single/Hibernate_User_Guide.html" id="60">
+    <title>Hibernate ORM 5.6 - Documentation</title>
+  </bookmark>
+  <bookmark href="https://www.baeldung.com/hibernate-identifiers" id="61">
+    <title>Overview of Identifiers in Hibernate/JPA</title>
+  </bookmark>
+  <bookmark href="https://www.baeldung.com/jpa-one-to-one" id="140">
+    <title>One-to-One Relationship in JPA | Baeldung</title>
+  </bookmark>
+  <bookmark href="https://codegym.cc/quests/lectures" id="141">
+    <title>CodeGym&apos;s Java</title>
+  </bookmark>
+</folder>
+<folder id="11">
+  <title>TypeScript</title>
+  <bookmark href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html" id="62">
+    <title>TypeScript: Documentation - TypeScript for JavaScript Programmers</title>
+  </bookmark>
+  <bookmark href="https://react-typescript-cheatsheet.netlify.app/" id="63">
+    <title>React TypeScript Cheatsheets | React TypeScript Cheatsheets</title>
+  </bookmark>
+  <bookmark href="https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935" id="64">
+    <title>Ultimate React Component Patterns with Typescript 2.8 | by Martin Hochel | Level Up Coding</title>
+  </bookmark>
+  <bookmark href="https://www.totaltypescript.com/books/total-typescript-essentials" id="65">
+    <title>Total TypeScript Essentials | Total TypeScript</title>
+  </bookmark>
+</folder>
+<folder id="12">
+  <title>UX/UI games</title>
+  <bookmark href="https://cantunsee.space/" id="66">
+    <title>Can&apos;t Unsee</title>
+  </bookmark>
+  <bookmark href="https://pixact.ly/" id="67">
+    <title>Pixel Game: A Pixels Test to Quiz Your Knowledge | Pixactly</title>
+  </bookmark>
+  <bookmark href="https://bezier.method.ac/" id="68">
+    <title>The Bézier Game</title>
+  </bookmark>
+  <bookmark href="https://www.supremo.co.uk/foney-fonts/" id="69">
+    <title>Foney Fonts | Do you know your Arial from your Helvetica?</title>
+  </bookmark>
+  <bookmark href="https://www.supremo.co.uk/designers-eye/" id="70">
+    <title>It&apos;s Centred That | Test Your Designer Eye</title>
+  </bookmark>
+  <bookmark href="https://color.method.ac/" id="71">
+    <title>Color Game</title>
+  </bookmark>
+</folder>
+<folder id="119">
+  <title>UML</title>
+  <bookmark href="https://www.websequencediagrams.com/" id="146">
+    <title>Web Sequence Diagrams</title>
+  </bookmark>
+</folder>
+<folder id="120">
+  <title>Web Security</title>
+  <bookmark href="https://portswigger.net/web-security" id="147">
+    <title>Web Security Academy: Free Online Training from PortSwigger</title>
+  </bookmark>
+</folder>
+<folder id="121">
+  <title>Miscellaneous</title>
+  <bookmark href="https://roadmap.sh/" id="148">
+    <title>Developer Roadmaps</title>
+  </bookmark>
+  <bookmark href="https://i.am.ai/roadmap/#fundamentals" id="149">
+    <title>AI Expert Roadmap</title>
+  </bookmark>
+</folder>
+<folder id="171">
+  <title>Interview Questions</title>
+  <bookmark href="https://www.interviewbit.com/technical-interview-questions/#programming-language-tools-technologies" id="172">
+    <title>InterviewBit</title>
+  </bookmark>
+  <bookmark href="https://www.testdome.com/questions?sort=none&amp;sets=public%2Cpremium&amp;skills=4-2&amp;difficulty=easy" id="173">
+    <title>Questions | TestDome</title>
+  </bookmark>
+</folder>
+<folder id="174">
+  <title>International Orgs Careers</title>
+  <bookmark href="https://jobs.eurocontrol.int/all-vacancies/" id="175">
+    <title>All opportunities – EUROCONTROL Job Portal</title>
+  </bookmark>
+  <bookmark href="https://209400.jobs2web.com/search/" id="176">
+    <title>Interpol Jobs</title>
+  </bookmark>
+  <bookmark href="https://nato.taleo.net/careersection/2/jobsearch.ftl?lang=en" id="177">
+    <title>NATO - NATO Vacancies</title>
+  </bookmark>
+  <bookmark href="https://talents.coe.int/en_GB/careersmarketplace/SearchJobs" id="178">
+    <title>Job Search | Council of Europe</title>
+  </bookmark>
+  <bookmark href="https://careers.icmpd.org/" id="179">
+    <title>Careers at ICMPD</title>
+  </bookmark>
+</folder>
+</xbel>
