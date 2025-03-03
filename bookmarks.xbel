@@ -6,11 +6,14 @@
 <bookmark href="https://www.notion.so/Programming-8b62d6d9f00b49e59576c08a97d74642" id="1">
   <title>Notion - Programming</title>
 </bookmark>
-<bookmark href="https://portswigger.net/web-security/all-topics" id="3">
-  <title>Web Security Academy</title>
-</bookmark>
 <bookmark href="https://angular.dev/cli/new" id="182">
   <title>ng new • Angular</title>
+</bookmark>
+<bookmark href="https://shaolans.github.io/prettier-java-playground/" id="52">
+  <title>Prettier-java</title>
+</bookmark>
+<bookmark href="https://www.notion.so/Commit-Naming-Convention-b87e938124544a52a0d883f374b1a6ec" id="2">
+  <title>Commit Naming Convention</title>
 </bookmark>
 <folder id="4">
   <title>Newsletters</title>
@@ -458,6 +461,9 @@
   <bookmark href="https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935" id="64">
     <title>Ultimate React Component Patterns with Typescript 2.8 | by Martin Hochel | Level Up Coding</title>
   </bookmark>
+  <bookmark href="https://www.totaltypescript.com/books/total-typescript-essentials" id="65">
+    <title>Total TypeScript Essentials | Total TypeScript</title>
+  </bookmark>
 </folder>
 <folder id="12">
   <title>UX/UI games</title>
@@ -488,6 +494,9 @@
 </folder>
 <folder id="120">
   <title>Web Security</title>
+  <bookmark href="https://portswigger.net/web-security/all-topics" id="3">
+    <title>Web Security Academy</title>
+  </bookmark>
 </folder>
 <folder id="121">
   <title>Miscellaneous</title>
@@ -879,13 +888,4 @@
     <title>BNP Paribas - Careers</title>
   </bookmark>
 </folder>
-<bookmark href="https://www.notion.so/Commit-Naming-Convention-b87e938124544a52a0d883f374b1a6ec" id="2">
-  <title>Commit Naming Convention</title>
-</bookmark>
-<bookmark href="https://shaolans.github.io/prettier-java-playground/" id="52">
-  <title>Prettier-java</title>
-</bookmark>
-<bookmark href="https://www.totaltypescript.com/books/total-typescript-essentials" id="65">
-  <title>Total TypeScript Essentials | Total TypeScript</title>
-</bookmark>
 </xbel>
