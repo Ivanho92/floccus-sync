@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :179: for Floccus bookmark sync browser extension -->
+<!--- highestId :180: for Floccus bookmark sync browser extension -->
 
+<bookmark href="https://www.larousse.fr/dictionnaires/francais/test/77497" id="180">
+  <title>Définitions : test - Dictionnaire de français Larousse</title>
+</bookmark>
 <bookmark href="https://www.notion.so/Programming-8b62d6d9f00b49e59576c08a97d74642" id="1">
   <title>Notion - Programming</title>
 </bookmark>
@@ -182,7 +185,7 @@
   <folder id="23">
     <title>Illustrations</title>
     <bookmark href="https://undraw.co/illustrations" id="113">
-      <title>unDraw </title>
+      <title>unDraw</title>
     </bookmark>
     <bookmark href="https://designstripe.com/search/illustrations?sort=free" id="114">
       <title>designstripe</title>
