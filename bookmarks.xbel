@@ -3,23 +3,23 @@
 <xbel version="1.0">
 <!--- highestId :304: for Floccus bookmark sync browser extension -->
 
-<bookmark href="https://www.notion.so/Programming-8b62d6d9f00b49e59576c08a97d74642" id="1">
-  <title>Notion - Programming</title>
-</bookmark>
 <bookmark href="https://angular.dev/cli/new" id="182">
   <title>ng new • Angular</title>
 </bookmark>
 <bookmark href="https://shaolans.github.io/prettier-java-playground/" id="52">
   <title>Prettier-java</title>
 </bookmark>
-<bookmark href="https://www.notion.so/Commit-Naming-Convention-b87e938124544a52a0d883f374b1a6ec" id="2">
-  <title>Commit Naming Convention</title>
-</bookmark>
-<bookmark href="https://cuddly-castanet-a3e.notion.site/Angular-Folder-by-feature-Structure-1893558f8dfe80269f54def0aed2e066" id="183">
-  <title>Angular Folder-by-feature Structure</title>
-</bookmark>
 <folder id="304">
   <title>Notion</title>
+  <bookmark href="https://www.notion.so/Programming-8b62d6d9f00b49e59576c08a97d74642" id="1">
+    <title>Notion - Programming</title>
+  </bookmark>
+  <bookmark href="https://www.notion.so/Commit-Naming-Convention-b87e938124544a52a0d883f374b1a6ec" id="2">
+    <title>Commit Naming Convention</title>
+  </bookmark>
+  <bookmark href="https://cuddly-castanet-a3e.notion.site/Angular-Folder-by-feature-Structure-1893558f8dfe80269f54def0aed2e066" id="183">
+    <title>Angular Folder-by-feature Structure</title>
+  </bookmark>
 </folder>
 <folder id="4">
   <title>Newsletters</title>
