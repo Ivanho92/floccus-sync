@@ -540,12 +540,6 @@
 <bookmark href="https://infinum.com/handbook/frontend/angular/angular-guidelines-and-best-practices/formatting-naming-and-best-practices" id="187">
   <title>Frontend Handbook | Angular/React</title>
 </bookmark>
-<bookmark href="https://towardsdatascience.com/popularity-ranking-of-programming-languages-72bcf697ea20" id="188">
-  <title>Popularity Ranking of Programming Languages | by Vahid Vaezian | Towards Data Science</title>
-</bookmark>
-<bookmark href="https://www.tiobe.com/tiobe-index/" id="189">
-  <title>TIOBE Index - TIOBE</title>
-</bookmark>
 <folder id="204">
   <title>Nginx</title>
   <bookmark href="https://www.freecodecamp.org/news/the-nginx-handbook/" id="245">
@@ -640,6 +634,12 @@
   </bookmark>
   <bookmark href="https://survey.devographics.com/" id="207">
     <title>Devographics Surveys</title>
+  </bookmark>
+  <bookmark href="https://www.tiobe.com/tiobe-index/" id="189">
+    <title>TIOBE Index - TIOBE</title>
+  </bookmark>
+  <bookmark href="https://towardsdatascience.com/popularity-ranking-of-programming-languages-72bcf697ea20" id="188">
+    <title>Popularity Ranking of Programming Languages | by Vahid Vaezian | Towards Data Science</title>
   </bookmark>
 </folder>
 <folder id="303">
