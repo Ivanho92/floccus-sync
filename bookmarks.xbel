@@ -744,27 +744,6 @@
     <title>HTTP / Security resources</title>
   </bookmark>
 </folder>
-<folder id="205">
-  <title>Projects</title>
-  <folder id="248">
-    <title>IZY</title>
-    <bookmark href="https://github.com/Ivanho92/izy" id="280">
-      <title>Ivanho92/izy</title>
-    </bookmark>
-    <bookmark href="https://casino.bwin.be/fr/livecasino/c/liveroulette" id="281">
-      <title>Bwin</title>
-    </bookmark>
-    <bookmark href="https://www.casinoladbrokes.be/fr/live-casino/Roulette/#!/" id="282">
-      <title>Ladbrokes</title>
-    </bookmark>
-    <bookmark href="https://onedrive.live.com/view.aspx?resid=DC75BB90361E6BB!44501&amp;ithint=file%2cxlsx&amp;authkey=!Aj1RGHmOYivxApc" id="283">
-      <title>Ratio calculator</title>
-    </bookmark>
-    <bookmark href="https://joshuatz.com/posts/2020/using-windows-task-scheduler-to-automate-nodejs-scripts/" id="284">
-      <title>Using Windows Task Scheduler to Automate NodeJS Scripts</title>
-    </bookmark>
-  </folder>
-</folder>
 <folder id="206">
   <title>Software Licences</title>
   <bookmark href="https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-find-and-compare-software-licenses" id="249">
