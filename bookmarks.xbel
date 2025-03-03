@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :180: for Floccus bookmark sync browser extension -->
+<!--- highestId :302: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.larousse.fr/dictionnaires/francais/test/77497" id="180">
   <title>Définitions : test - Dictionnaire de français Larousse</title>
@@ -10,16 +10,13 @@
   <title>Notion - Programming</title>
 </bookmark>
 <bookmark href="https://www.notion.so/Commit-Naming-Convention-b87e938124544a52a0d883f374b1a6ec" id="2">
-  <title>Notion - Commit Naming</title>
+  <title>Commit Naming Convention</title>
 </bookmark>
 <bookmark href="https://portswigger.net/web-security/all-topics" id="3">
   <title>Web Security Academy</title>
 </bookmark>
 <folder id="4">
   <title>Newsletters</title>
-  <bookmark href="https://dev.to/" id="13">
-    <title>dev.to</title>
-  </bookmark>
   <bookmark href="https://feedly.com/i/my" id="14">
     <title>Feedly</title>
   </bookmark>
@@ -185,7 +182,7 @@
   <folder id="23">
     <title>Illustrations</title>
     <bookmark href="https://undraw.co/illustrations" id="113">
-      <title>unDraw</title>
+      <title>unDraw </title>
     </bookmark>
     <bookmark href="https://designstripe.com/search/illustrations?sort=free" id="114">
       <title>designstripe</title>
@@ -422,9 +419,6 @@
 </folder>
 <folder id="10">
   <title>Java</title>
-  <bookmark href="https://shaolans.github.io/prettier-java-playground/" id="52">
-    <title>Prettier-java</title>
-  </bookmark>
   <bookmark href="https://start.spring.io/" id="53">
     <title>Spring Initializr</title>
   </bookmark>
@@ -455,9 +449,6 @@
   <bookmark href="https://www.baeldung.com/jpa-one-to-one" id="140">
     <title>One-to-One Relationship in JPA | Baeldung</title>
   </bookmark>
-  <bookmark href="https://codegym.cc/quests/lectures" id="141">
-    <title>CodeGym&apos;s Java</title>
-  </bookmark>
 </folder>
 <folder id="11">
   <title>TypeScript</title>
@@ -469,9 +460,6 @@
   </bookmark>
   <bookmark href="https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935" id="64">
     <title>Ultimate React Component Patterns with Typescript 2.8 | by Martin Hochel | Level Up Coding</title>
-  </bookmark>
-  <bookmark href="https://www.totaltypescript.com/books/total-typescript-essentials" id="65">
-    <title>Total TypeScript Essentials | Total TypeScript</title>
   </bookmark>
 </folder>
 <folder id="12">
@@ -503,27 +491,12 @@
 </folder>
 <folder id="120">
   <title>Web Security</title>
-  <bookmark href="https://portswigger.net/web-security" id="147">
-    <title>Web Security Academy: Free Online Training from PortSwigger</title>
-  </bookmark>
 </folder>
 <folder id="121">
   <title>Miscellaneous</title>
-  <bookmark href="https://roadmap.sh/" id="148">
-    <title>Developer Roadmaps</title>
-  </bookmark>
-  <bookmark href="https://i.am.ai/roadmap/#fundamentals" id="149">
-    <title>AI Expert Roadmap</title>
-  </bookmark>
 </folder>
 <folder id="171">
   <title>Interview Questions</title>
-  <bookmark href="https://www.interviewbit.com/technical-interview-questions/#programming-language-tools-technologies" id="172">
-    <title>InterviewBit</title>
-  </bookmark>
-  <bookmark href="https://www.testdome.com/questions?sort=none&amp;sets=public%2Cpremium&amp;skills=4-2&amp;difficulty=easy" id="173">
-    <title>Questions | TestDome</title>
-  </bookmark>
 </folder>
 <folder id="174">
   <title>International Orgs Careers</title>
@@ -543,4 +516,397 @@
     <title>Careers at ICMPD</title>
   </bookmark>
 </folder>
+<bookmark href="https://primeng-v16.pages.dev/" id="181">
+  <title>PrimeNG 16 doc</title>
+</bookmark>
+<bookmark href="https://angular.dev/cli/new" id="182">
+  <title>ng new • Angular</title>
+</bookmark>
+<bookmark href="https://cuddly-castanet-a3e.notion.site/Angular-Folder-by-feature-Structure-1893558f8dfe80269f54def0aed2e066" id="183">
+  <title>Angular Folder-by-feature Structure</title>
+</bookmark>
+<bookmark href="https://ivan-rodrigues.atlassian.net/jira/your-work" id="184">
+  <title>Jira</title>
+</bookmark>
+<bookmark href="https://devdocs.io/" id="185">
+  <title>DevDocs</title>
+</bookmark>
+<bookmark href="https://frontendmasters.com/guides/front-end-handbook/2019/#4.1" id="186">
+  <title>Front-end Developer Roadmap 2019</title>
+</bookmark>
+<bookmark href="https://infinum.com/handbook/frontend/angular/angular-guidelines-and-best-practices/formatting-naming-and-best-practices" id="187">
+  <title>Frontend Handbook | Angular/React</title>
+</bookmark>
+<bookmark href="https://towardsdatascience.com/popularity-ranking-of-programming-languages-72bcf697ea20" id="188">
+  <title>Popularity Ranking of Programming Languages | by Vahid Vaezian | Towards Data Science</title>
+</bookmark>
+<bookmark href="https://www.tiobe.com/tiobe-index/" id="189">
+  <title>TIOBE Index - TIOBE</title>
+</bookmark>
+<bookmark href="https://www.photopea.com/" id="190">
+  <title>Photopea | Online Photo Editor</title>
+</bookmark>
+<bookmark href="https://vectorizer.com/fr/" id="191">
+  <title>Vectorizer – Vectorisation gratuite des images</title>
+</bookmark>
+<folder id="192">
+  <title>Formations</title>
+  <bookmark href="https://expleogroup.udemy.com/organization/home/" id="193">
+    <title>Expleo Udemy</title>
+  </bookmark>
+  <bookmark href="https://www.udemy.com/" id="194">
+    <title>Udemy</title>
+  </bookmark>
+  <bookmark href="https://learning.expleogroup.com/my/" id="195">
+    <title>Learning expleo</title>
+  </bookmark>
+  <bookmark href="https://egghead.io/" id="196">
+    <title>Expert led courses for front-end web developers. | egghead.io</title>
+  </bookmark>
+  <bookmark href="https://web.dev/learn/" id="197">
+    <title>Learn</title>
+  </bookmark>
+  <bookmark href="https://developer.chrome.com/" id="198">
+    <title>Chrome Developers</title>
+  </bookmark>
+  <bookmark href="https://www.ecole-du-web.net/courses" id="199">
+    <title>École du Web</title>
+  </bookmark>
+  <bookmark href="https://app.hackages.io/" id="200">
+    <title>Hackages, We write Tests, You write the Features</title>
+  </bookmark>
+  <bookmark href="https://www.freecodecamp.org/" id="201">
+    <title>Freecodecamp</title>
+  </bookmark>
+  <bookmark href="https://www.theodinproject.com/" id="202">
+    <title>The Odin Project</title>
+  </bookmark>
+  <bookmark href="https://mastery.games/" id="211">
+    <title>Mastery Games</title>
+  </bookmark>
+  <folder id="212">
+    <title>React</title>
+    <bookmark href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/15700386#overview" id="219">
+      <title>React - The Complete Guide (incl Hooks, React Router, Redux) | Udemy</title>
+    </bookmark>
+  </folder>
+  <folder id="213">
+    <title>Java</title>
+    <bookmark href="https://www.learnjavaonline.org/" id="220">
+      <title>Learn Java - Free Interactive Java Tutorial</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=WsUuqlTgBK0" id="221">
+      <title>Java Projects for Beginners | Java Open Source Projects | Java Certification Training | Edureka - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=J4eLUMln84c&amp;list=PLtQo0sxRN7JKKla3_GAF05dySjyy3nINa" id="222">
+      <title>Investment earnings - Java example - YouTube</title>
+    </bookmark>
+    <bookmark href="https://coggle.it/diagram/X-dDo1Qdf7DCP2zg/t/how-to-master-java/a3c8bede6822097b7f3c6340b82eabd7986c57af4d42f11c122d5065479d5928" id="223">
+      <title>How to Master Java</title>
+    </bookmark>
+    <bookmark href="https://docs.oracle.com/javase/tutorial/" id="224">
+      <title>The Java™ Tutorials</title>
+    </bookmark>
+    <bookmark href="https://expleogroup.udemy.com/course/java-the-complete-java-developer-course" id="225">
+      <title>Java Programming Masterclass covering Java 11 &amp; Java 17</title>
+    </bookmark>
+  </folder>
+  <folder id="214">
+    <title>Data structures &amp; Algorithms</title>
+    <bookmark href="https://learn.udacity.com/courses/ud513" id="226">
+      <title>Data Structures &amp; Algorithms in Python</title>
+    </bookmark>
+    <bookmark href="https://leetcode.com/" id="227">
+      <title>LeetCode - The World&apos;s Leading Online Programming Learning Platform</title>
+    </bookmark>
+    <bookmark href="https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/" id="228">
+      <title>JavaScript (JS) Algorithms and Data Structures Masterclass | Udemy</title>
+    </bookmark>
+    <bookmark href="https://visualgo.net/en" id="229">
+      <title>visualising data structures and algorithms through animation - VisuAlgo</title>
+    </bookmark>
+    <bookmark href="https://www.toptal.com/developers/sorting-algorithms" id="230">
+      <title>Sorting Algorithms Animations | Toptal®</title>
+    </bookmark>
+  </folder>
+  <folder id="215">
+    <title>Agile</title>
+    <bookmark href="https://learning.expleogroup.com/enrol/index.php?id=62" id="231">
+      <title>Agile/DevOps</title>
+    </bookmark>
+    <bookmark href="https://learning.expleogroup.com/enrol/index.php?id=186" id="232">
+      <title>Agile Project Management</title>
+    </bookmark>
+    <bookmark href="https://www.smartinsights.com/digital-marketing-strategy/an-introduction-to-the-agile-mindset/" id="233">
+      <title>An introduction to the agile mindset | Smart Insights</title>
+    </bookmark>
+    <bookmark href="http://pashunconsulting.co.uk/pdf/2020-Scrum-Guide-US-highlighted.pdf" id="234">
+      <title>2020-Scrum-Guide-US-highlighted.pdf</title>
+    </bookmark>
+  </folder>
+  <folder id="216">
+    <title>Security</title>
+    <bookmark href="https://learning.expleogroup.com/course/view.php?id=124" id="235">
+      <title>Course: Expleo Compliancy - Sécurité de l&apos;information</title>
+    </bookmark>
+    <bookmark href="https://learning.expleogroup.com/course/view.php?id=56" id="236">
+      <title>Course: Ethique et lutte contre la corruption</title>
+    </bookmark>
+    <bookmark href="https://www.codecademy.com/learn/introduction-to-ethical-hacking?utm_campaign=oct_2022_newsletter&amp;utm_content=curriculum_2022_ethical_hacking&amp;utm_source=iterable&amp;utm_medium=email" id="237">
+      <title>Introduction To Ethical Hacking | Codecademy</title>
+    </bookmark>
+  </folder>
+  <folder id="217">
+    <title>PWA</title>
+    <bookmark href="https://web.dev/learn/pwa/" id="238">
+      <title>Learn PWA</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://www.udemy.com/course/webpack-optimizing-for-production/?referralCode=B71C38561B63DF0E2633" id="218">
+    <title>Webpack 5 in 2022: Optimizing For Production | Udemy</title>
+  </bookmark>
+  <bookmark href="https://codegym.cc/quests/lectures" id="141">
+    <title>CodeGym&apos;s Java</title>
+  </bookmark>
+</folder>
+<folder id="203">
+  <title>React</title>
+  <bookmark href="https://react-typescript-cheatsheet.netlify.app/" id="239">
+    <title>React TypeScript Cheatsheets | React TypeScript Cheatsheets</title>
+  </bookmark>
+  <bookmark href="https://formik.org/" id="240">
+    <title>Formik: Build forms in React, without the tears</title>
+  </bookmark>
+  <folder id="241">
+    <title>react-hook-form (useForm)</title>
+    <bookmark href="https://react-hook-form.com/api" id="271">
+      <title>API Documentation | React Hook Form - Simple React forms validation</title>
+    </bookmark>
+    <bookmark href="https://github.com/react-hook-form/react-hook-form/tree/master/examples" id="272">
+      <title>react-hook-form/examples at master · react-hook-form/react-hook-form</title>
+    </bookmark>
+    <folder id="273">
+      <title>useFieldArray (dynamic form fields)</title>
+      <bookmark href="https://react-hook-form.com/api/usefieldarray/" id="285">
+        <title>useFieldArray | React Hook Form - Simple React forms validation</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=LhIvi4XHIco" id="286">
+        <title>V6 - React Hook Form - building dynamic form (Field Array) - YouTube</title>
+      </bookmark>
+      <bookmark href="https://stackoverflow.com/questions/46368382/angular-property-binding" id="287">
+        <title>Angular property binding - Stack Overflow</title>
+      </bookmark>
+      <bookmark href="https://dev.azure.com/R-DevOpsFactory/213%20J%20Platform%20Tank%202.0/_workitems/edit/131616" id="288">
+        <title>User Story 131616*: No Bootstrap Redesign &gt;&gt; Screen #1050 - Create Measure / Identification Data Form (3/4) - Boards</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <bookmark href="https://react-icons.github.io/react-icons/search?q=trash" id="242">
+    <title>React Icons</title>
+  </bookmark>
+  <folder id="243">
+    <title>CSS Animations</title>
+    <bookmark href="http://reactcommunity.org/react-transition-group/" id="274">
+      <title>React Transition Group</title>
+    </bookmark>
+    <bookmark href="https://github.com/chenglou/react-motion" id="275">
+      <title>React-Motion</title>
+    </bookmark>
+    <bookmark href="https://react-move-docs.netlify.app/" id="276">
+      <title>React Move</title>
+    </bookmark>
+    <bookmark href="https://github.com/maisano/react-router-transition" id="277">
+      <title>React Router Transition</title>
+    </bookmark>
+  </folder>
+  <folder id="244">
+    <title>TDD</title>
+    <bookmark href="https://testing-library.com/" id="278">
+      <title>Testing Library</title>
+    </bookmark>
+    <bookmark href="https://mswjs.io/" id="279">
+      <title>Mock Service Worker</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="204">
+  <title>Nginx</title>
+  <bookmark href="https://www.freecodecamp.org/news/the-nginx-handbook/" id="245">
+    <title>The NGINX Handbook – Learn NGINX for Beginners</title>
+  </bookmark>
+  <bookmark href="https://github.com/trimstray/nginx-admins-handbook?tab=readme-ov-file#whats-next" id="246">
+    <title>Learning NGINX</title>
+  </bookmark>
+  <bookmark href="https://github.com/trimstray/nginx-admins-handbook?tab=readme-ov-file#introduction" id="247">
+    <title>HTTP / Security resources</title>
+  </bookmark>
+</folder>
+<folder id="205">
+  <title>Projects</title>
+  <folder id="248">
+    <title>IZY</title>
+    <bookmark href="https://github.com/Ivanho92/izy" id="280">
+      <title>Ivanho92/izy</title>
+    </bookmark>
+    <bookmark href="https://casino.bwin.be/fr/livecasino/c/liveroulette" id="281">
+      <title>Bwin</title>
+    </bookmark>
+    <bookmark href="https://www.casinoladbrokes.be/fr/live-casino/Roulette/#!/" id="282">
+      <title>Ladbrokes</title>
+    </bookmark>
+    <bookmark href="https://onedrive.live.com/view.aspx?resid=DC75BB90361E6BB!44501&amp;ithint=file%2cxlsx&amp;authkey=!Aj1RGHmOYivxApc" id="283">
+      <title>Ratio calculator</title>
+    </bookmark>
+    <bookmark href="https://joshuatz.com/posts/2020/using-windows-task-scheduler-to-automate-nodejs-scripts/" id="284">
+      <title>Using Windows Task Scheduler to Automate NodeJS Scripts</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="206">
+  <title>Software Licences</title>
+  <bookmark href="https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-find-and-compare-software-licenses" id="249">
+    <title>JLA - Find and compare software licenses | Joinup</title>
+  </bookmark>
+  <bookmark href="https://tldrlegal.com/" id="250">
+    <title>TLDRLegal - Software Licenses Explained in Plain English</title>
+  </bookmark>
+</folder>
+<bookmark href="https://survey.devographics.com/" id="207">
+  <title>Devographics Surveys</title>
+</bookmark>
+<folder id="208">
+  <title>Certificates</title>
+  <bookmark href="https://udemy-certificate.s3.amazonaws.com/image/UC-a29882fa-90a3-4115-ab2c-ffefc0ca3b49.jpg" id="251">
+    <title>Modern JavaScript</title>
+  </bookmark>
+  <bookmark href="https://udemy-certificate.s3.amazonaws.com/image/UC-c1031d2d-34f3-4f22-9995-6b8797962041.jpg" id="252">
+    <title>Node.js</title>
+  </bookmark>
+  <bookmark href="https://udemy-certificate.s3.amazonaws.com/image/UC-9538b548-cd7e-47cd-b623-1563fea46e20.jpg" id="253">
+    <title>Webpack</title>
+  </bookmark>
+  <bookmark href="https://udemy-certificate.s3.amazonaws.com/image/UC-5e9326e6-3b47-432e-9fd8-139d4e9db87a.jpg" id="254">
+    <title>Spring, Hibernate &amp; SpringBoot</title>
+  </bookmark>
+  <bookmark href="https://udemy-certificate.s3.amazonaws.com/image/UC-a2fa0afe-3802-4f10-b618-9667dc14ed77.jpg" id="255">
+    <title>Junit &amp; Mockito</title>
+  </bookmark>
+  <bookmark href="https://udemy-certificate.s3.amazonaws.com/image/UC-89bbfcea-07b3-45b5-b520-a4b391eef3f8.jpg" id="256">
+    <title>Maven</title>
+  </bookmark>
+  <bookmark href="https://udemy-certificate.s3.amazonaws.com/image/UC-c47efd3a-3396-445d-bf4f-25ec13cb9636.jpg" id="257">
+    <title>Jenkins</title>
+  </bookmark>
+  <bookmark href="https://udemy-certificate.s3.amazonaws.com/image/UC-018ca2a5-5579-4bfe-addd-1fda22b8e061.jpg" id="258">
+    <title>Swagger &amp; OAS</title>
+  </bookmark>
+  <bookmark href="https://udemy-certificate.s3.amazonaws.com/image/UC-b5ff8c77-ba55-446b-b68a-709dea9666c6.jpg?v=1672933112000" id="259">
+    <title>Testing React with Jest and React Testing Library</title>
+  </bookmark>
+  <bookmark href="https://www.dropbox.com/s/5s14569kyy24dza/Hack2StartCertificate.jpg?dl=0" id="260">
+    <title>Hack2StartCertificate.jpg</title>
+  </bookmark>
+  <bookmark href="https://www.dropbox.com/s/yqopvhususyc5ax/InfrabelBAChallengeCertificate.jpg?dl=0" id="289">
+    <title>InfrabelBAChallengeCertificate.jpg</title>
+  </bookmark>
+  <bookmark href="https://app.assessfirst.com/_/candidate/profile/synthesis" id="290">
+    <title>App AssessFirst</title>
+  </bookmark>
+</folder>
+<bookmark href="https://www.talent.io/job_offers" id="209">
+  <title>talent.io</title>
+</bookmark>
+<folder id="210">
+  <title>Recherche emploi</title>
+  <bookmark href="https://egovselect.be/fr" id="261">
+    <title>Egov Select | Le bureau de recrutement du personnel IT pour les administrations publiques fédérales</title>
+  </bookmark>
+  <bookmark href="https://epso.europa.eu/fr/node/3284" id="262">
+    <title>Technologies de l&apos;information et de la communication (TIC) | EU Careers</title>
+  </bookmark>
+  <bookmark href="https://jobs.servicepublic.brussels/fr" id="263">
+    <title>Accueil - Brujobs</title>
+  </bookmark>
+  <bookmark href="https://www.selor.be/fr/emplois/?lang=FR&amp;type=&amp;level=&amp;term=&amp;cat=" id="264">
+    <title>Emplois - Selor, bureau de sélection de l&apos;administration fédérale</title>
+  </bookmark>
+  <bookmark href="https://www.selor.be/fr/emplois/?lang=FR&amp;type=&amp;level=&amp;term=&amp;cat=IT" id="265">
+    <title>Emplois - Selor, bureau de sélection de l&apos;administration fédérale</title>
+  </bookmark>
+  <bookmark href="https://talents.wallonie.be/emploisdisponibles?src_sites.values=selection&amp;src_languages.values=fr&amp;typeOffre=external&amp;viewArchive=false&amp;jobsSearchKeyword=&amp;open-niveau-etudes=false&amp;open-famille-de-fonctions=false&amp;open-regions=false&amp;open-type-demploi=false&amp;open-listorga=false" id="266">
+    <title>Les emplois disponibles</title>
+  </bookmark>
+  <bookmark href="https://www.travailleralonss.be/emplois?search_language%5B0%5D=fr" id="267">
+    <title>Offres d&apos;emploi à l&apos;ONSS - ONSS | travailler</title>
+  </bookmark>
+  <bookmark href="https://nato.taleo.net/careersection/2/jobsearch.ftl" id="268">
+    <title>NATO - NATO Vacancies</title>
+  </bookmark>
+  <bookmark href="http://www.recrutement.cfwb.be/index.php?id=12087" id="269">
+    <title>Emplois de niveau 1 : accessibles aux titulaires d&apos;un master ou d&apos;une licence - candi - Secrétariat Général - Fédération Wallonie-Bruxelles</title>
+  </bookmark>
+  <bookmark href="https://be.brussels/a-propos-de-la-region/les-organismes-regionaux" id="270">
+    <title>Les organismes régionaux — Région bruxelloise - Brussels Gewest</title>
+  </bookmark>
+  <bookmark href="https://jobs.stib-mivb.be/jobs/cat/IT-et-telecom?locale=fr" id="291">
+    <title>Tous les postes vacants - STIB</title>
+  </bookmark>
+  <bookmark href="https://jobs.belgiantrain.be/search/?createNewAlert=false&amp;q=&amp;optionsFacetsDD_facility=&amp;optionsFacetsDD_customfield1=&amp;optionsFacetsDD_customfield3=&amp;optionsFacetsDD_customfield4=&amp;optionsFacetsDD_shifttype=&amp;optionsFacetsDD_dept=&amp;optionsFacetsDD_department=" id="292">
+    <title>Jobs à la SNCB.</title>
+  </bookmark>
+  <bookmark href="https://www.arp-gan.be/fr/travailler.html" id="293">
+    <title>Travailler à Bruxelles-Propreté | Bruxelles-Propreté</title>
+  </bookmark>
+  <bookmark href="https://job.parking.brussels/fr/index.aspx" id="294">
+    <title>Parking.brussels Offres d’emploi récentes</title>
+  </bookmark>
+  <bookmark href="https://www.visit.brussels/fr/professionnels/about-us/offres-d-emploi-a-visit-brussels" id="295">
+    <title>Offres d&apos;emploi à visit.brussels | Visit Brussels</title>
+  </bookmark>
+  <bookmark href="https://www.actiris.brussels/fr/citoyens/postes-vacants-chez-actiris/" id="296">
+    <title>Travailler chez Actiris</title>
+  </bookmark>
+  <bookmark href="https://brusselshris.csod.com/ux/ats/careersite/1/home?c=brusselshris&amp;lang=fr-FR" id="297">
+    <title>https://brusselshris.csod.com/ux/ats/careersite/1/home?c=brusselshris&amp;lang=fr-FR</title>
+  </bookmark>
+  <bookmark href="https://innoviris.brussels/fr/nos-offres-demploi" id="298">
+    <title>Nos offres d&apos;emploi | Innoviris</title>
+  </bookmark>
+  <bookmark href="https://www.citydev.brussels/fr/jobs" id="299">
+    <title>Jobs et stages vacants | citydev.brussels</title>
+  </bookmark>
+  <bookmark href="https://perspective.brussels/fr/qui-sommes-nous/jobs" id="300">
+    <title>Jobs | perspective.brussels</title>
+  </bookmark>
+  <bookmark href="https://www.top-employers.com/fr-BE/certified-top-employers-search/?country=BE" id="301">
+    <title>Découvrez les Top Employers</title>
+  </bookmark>
+  <bookmark href="https://bnpparibasgt.taleo.net/careersection/careersection/gt/jobview.ftl" id="302">
+    <title>BNP Paribas - Careers</title>
+  </bookmark>
+</folder>
+<bookmark href="https://shaolans.github.io/prettier-java-playground/" id="52">
+  <title>Prettier-java</title>
+</bookmark>
+<bookmark href="https://www.totaltypescript.com/books/total-typescript-essentials" id="65">
+  <title>Total TypeScript Essentials | Total TypeScript</title>
+</bookmark>
+<bookmark href="https://dev.to/" id="13">
+  <title>dev.to</title>
+</bookmark>
+<bookmark href="https://portswigger.net/web-security" id="147">
+  <title>Web Security Academy: Free Online Training from PortSwigger</title>
+</bookmark>
+<bookmark href="https://roadmap.sh/" id="148">
+  <title>Developer Roadmaps</title>
+</bookmark>
+<bookmark href="https://www.interviewbit.com/technical-interview-questions/#programming-language-tools-technologies" id="172">
+  <title>InterviewBit</title>
+</bookmark>
+<bookmark href="https://www.testdome.com/questions?sort=none&amp;sets=public%2Cpremium&amp;skills=4-2&amp;difficulty=easy" id="173">
+  <title>Questions | TestDome</title>
+</bookmark>
+<bookmark href="https://i.am.ai/roadmap/#fundamentals" id="149">
+  <title>AI Expert Roadmap</title>
+</bookmark>
 </xbel>
