@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :306: for Floccus bookmark sync browser extension -->
+<!--- highestId :307: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://angular.dev/cli/new" id="182">
   <title>ng new • Angular</title>
@@ -642,4 +642,7 @@
     </folder>
   </folder>
 </folder>
+<bookmark href="https://drive.google.com/file/d/1lmUlVEnECyQ7bzwOg2-Y76aeoQjIcFpa/view?ref=expertlysimple.io&amp;pli=1" id="307">
+  <title>Angular_for_Enterprise_Appendix_D_Self-Assessment_Answers.pdf - Google Drive</title>
+</bookmark>
 </xbel>
